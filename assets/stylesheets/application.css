@@ -1,4 +1,27 @@
-h1 {
-	font-size: 24px;
-	color: blue;
+.bg-header {
+	background-color: #87CEFA;
+}
+
+.bg-subheader {
+	background-color: #B0C4DE;
+}
+
+.bg-sidebar {
+	background-color: #66CDAA;
+}	
+
+.bg-sidebarlist {
+	background-color: #98FB98;
+}
+
+.bg-body {
+	background-color: #DDA0DD
+}
+
+.bg-footer {
+	background-color: #FFDAB9
+}
+
+.sidebar-item {
+	padding-bottom: 10px;
 }
